@@ -1,3 +1,7 @@
+#Master 1 Génétique|Merabet fatima|Lien Githup :
+http://githup.com /Merabet fatima/ Analyse-Séquece
+-ADN | Date : 15/12/2025
+#Membre de groupe : Merabet fatima 
 import pandas as pd
 
 # 1) Création du tableau de données
